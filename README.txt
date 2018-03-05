@@ -1,2 +1,2 @@
 # The Text-based Adventure Game
-  Through this project I am learning basics of OOP through creating a text-based adventure game 
+A Future Learn Company project that teaches basics of OOP through creating a text-based adventure game - Very nice and kudos to the Future Learn Python Team 
